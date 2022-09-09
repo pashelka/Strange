@@ -1,3 +1,3 @@
 # Strange
-this is strange
+this is strange.
 why dont we just go crazy
